@@ -3,3 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #What is Clicky Game?
 Clicky Game is a memory game developed using React.js
+
+#Author
+Created by Ryan Case in 2018
